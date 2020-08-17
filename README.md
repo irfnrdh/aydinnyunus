@@ -9,7 +9,7 @@ However, if you've made some money using my tools or just want to encourage me t
 
 ---
 
-![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dwisiswant0&hide=javascript,html&theme=radical&layout=compact)
+![most-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydinnyunus&hide=javascript,html&theme=radical&layout=compact)
 
 <!--
 **dwisiswant0/dwisiswant0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
