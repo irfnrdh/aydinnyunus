@@ -1,4 +1,6 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=aydinnyunus&show_icons=true&hide_title=true&count_private=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aydinnyunus" alt="silverstone1903" /> </p>
+
 
 ---
 
